@@ -12,7 +12,7 @@
 
 ## 🔗 Live Dashboard
 
-👉 **[View Live Demo →](https://your-app-name.streamlit.app)** *(replace with your Streamlit Cloud URL)*
+[👉 **[View Live Demo →](https://your-app-name.streamlit.app)** *(replace with your Streamlit Cloud URL)*](https://customer-churn-analysis-adduezyczwgquyixfcxnzw.streamlit.app/)
 
 ---
 
